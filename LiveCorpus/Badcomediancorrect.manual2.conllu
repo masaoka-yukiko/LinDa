@@ -617,7 +617,7 @@
 617	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	621	nsubj	_	words@evb1986m#@evb1986m#00:02:09.805#00:02:10.082
 618	потому	потому	ADV	_	Degree=Pos	621	mark	_	words@evb1986m#@evb1986m#00:02:10.082#00:02:10.359
 619	что	что	SCONJ	_	_	618	fixed	_	words@evb1986m#@evb1986m#00:02:10.359#00:02:10.636
-620	безумейший	безумый	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	621	amod	_	words@evb1986m#@evb1986m#00:02:10.636#00:02:10.913
+620	безумейший	безумный	ADJ	_	Case=Nom|Degree=Sup|Gender=Masc|Number=Sing	621	amod	_	words@evb1986m#@evb1986m#00:02:10.636#00:02:10.913
 621	фанат	фанат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	609	conj	_	words@evb1986m#@evb1986m#00:02:10.913#00:02:11.190
 622	Высоцкого	Высоцкий	PROPN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	621	nmod	_	words@evb1986m#@evb1986m#00:02:11.190#00:02:11.467
 623	/	/	PUNCT	_	_	626	punct	_	words@evb1986m#@evb1986m#00:02:11.467#00:02:11.744
