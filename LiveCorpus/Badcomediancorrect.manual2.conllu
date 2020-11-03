@@ -606,7 +606,7 @@
 606	/	/	PUNCT	_	_	609	punct	_	words@evb1986m#@evb1986m#00:02:00.610#00:02:00.710
 607	Мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	609	iobj	_	words@evb1986m#@evb1986m#00:02:07.035#00:02:07.312
 608	Высоцкий	Высоцкий	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	609	nsubj	_	words@evb1986m#@evb1986m#00:02:07.312#00:02:07.589
-609	отвратителен	отвратителить	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	600	parataxis	_	words@evb1986m#@evb1986m#00:02:07.589#00:02:07.866
+609	отвратителен	отвратительный	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	600	parataxis	_	words@evb1986m#@evb1986m#00:02:07.589#00:02:07.866
 610	/	/	PUNCT	_	_	615	punct	_	words@evb1986m#@evb1986m#00:02:07.866#00:02:08.143
 611	/	/	PUNCT	_	_	615	punct	_	words@evb1986m#@evb1986m#00:02:08.143#00:02:08.420
 612	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1	615	nsubj	_	words@evb1986m#@evb1986m#00:02:08.420#00:02:08.697
